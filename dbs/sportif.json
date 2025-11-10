@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "sp1",
+    "nom": "Radi",
+    "prenom": "Abdessalam",
+    "genre": "homme",
+    "sport": { "description": "marathon", "olympique": true }
+  },
+  {
+    "_id": "sp2",
+    "nom": "Larbi",
+    "prenom": "Benmbarek",
+    "genre": "homme",
+    "sport": { "description": "football", "olympique": true }
+  },
+  {
+    "_id": "sp3",
+    "nom": "ELGourch",
+    "prenom": "Mohamed",
+    "genre": "homme",
+    "sport": { "description": "cyclisme", "olympique": true }
+  },
+  {
+    "_id": "sp4",
+    "nom": "Bidouane",
+    "prenom": "Nezha",
+    "genre": "femme",
+    "sport": { "description": "athletisme", "olympique": true }
+  },
+  {
+    "_id": "sp5",
+    "nom": "ELGaraa",
+    "prenom": "Najat",
+    "genre": "femme",
+    "sport": { "description": "athletisme", "olympique": true }
+  },
+  {
+    "_id": "sp6",
+    "nom": "Rabii",
+    "prenom": "Mohamed",
+    "genre": "homme",
+    "sport": { "description": "box", "olympique": true }
+  },
+  {
+    "_id": "sp7",
+    "nom": "El Guerrouj",
+    "prenom": "Hicham",
+    "genre": "homme",
+    "sport": { "description": "box", "olympique": true }
+  },
+  {
+    "_id": "sp8",
+    "nom": "Abissourour",
+    "prenom": "Sara",
+    "genre": "femme",
+    "sport": { "description": "volley ball", "olympique": true }
+  },
+  {
+    "_id": "sp9",
+    "nom": "Belafrikh",
+    "prenom": "Amine",
+    "genre": "homme",
+    "sport": { "description": "Muay Thai", "olympique": false }
+  },
+  {
+    "_id": "sp10",
+    "nom": "Moutawakil",
+    "prenom": "Naoual",
+    "genre": "femme",
+    "nbMedailles": 4,
+    "sport": { "description": "athletisme", "olympique": true }
+  }
+]
